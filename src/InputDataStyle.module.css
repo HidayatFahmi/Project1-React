@@ -1,0 +1,32 @@
+.div{
+    display: grid;
+    background-color: aqua;
+    justify-content: center;
+    padding: 10px 2px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.JudulPemain{
+    background-color: blue;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    width: 100vw;
+    background-image: url();
+}
+
+.gambar{
+    background-image: url(mine.jpeg);
+    height: 300px;
+    width: auto;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+}
